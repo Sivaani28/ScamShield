@@ -23,7 +23,7 @@ ScamShield is a web application that helps users identify potential scam message
 
 - React
 - TypeScript
-- Tailwind CSS (if used in the project)
+- Tailwind CSS 
 - Rule-based message analysis
 
 ## 🔍 How It Works
