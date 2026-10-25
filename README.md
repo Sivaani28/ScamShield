@@ -8,7 +8,7 @@ ScamShield is a web application that helps users identify potential scam message
 
 ## 🌐 Live Demo
 
-[Open ScamShield](PASTE_YOUR_PUBLISHED_URL_HERE)
+[Open ScamShield](https://scam-shield-message-analyzer--sivaani289.replit.app/)
 
 ## ✨ Features
 
